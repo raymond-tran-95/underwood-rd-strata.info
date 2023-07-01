@@ -26,6 +26,8 @@ Strata funds are paid and then deposited into two funds. These are:
 | ---- | -------------- | ------------- |
 | Amount | $9,063.46 | $36,441.55 |
 
+* This data is pulled from the interim Sarraf Strata report on the 1st May 2023.
+
 ## Where do we need to be?
 
 
