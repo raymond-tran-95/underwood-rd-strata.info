@@ -24,7 +24,9 @@ Strata funds are paid and then deposited into two funds. These are:
 
 | Fund | Administrative | Capital Works |
 | ---- | -------------- | ------------- |
-| Amount | 9,063.46 | 36,441.55 |
-| ------ | -------- | --------- |
+| Amount | $9,063.46 | $36,441.55 |
+
+## Where do we need to be?
+
 
 
